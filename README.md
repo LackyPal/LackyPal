@@ -1,5 +1,5 @@
-# ![](img/greeting.gif)
-[LACKY](https://github.com/LackyPal)![Hi](img/hi.gif)
+![](img/greeting.gif)
+# [LACKY](https://github.com/LackyPal) ![Hi](img/hi.gif)
 
 **A self-taught, passionate developer from India 🇮🇳**.
 
